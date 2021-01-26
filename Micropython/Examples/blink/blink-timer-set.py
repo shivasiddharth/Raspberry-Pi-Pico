@@ -28,3 +28,4 @@ for i in range(0,11):
 
 # Timer is stopped
 tim.deinit()
+led.value(0)
