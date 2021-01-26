@@ -3,7 +3,7 @@
 
 
 # Raspberry-Pi-Pico
- Aggregate of Raspberry Pi Pico related codes and firmware    
+ Aggregate of Raspberry Pi Pico related codes, firmware, libraries, etc.      
 
  
 *************************************
