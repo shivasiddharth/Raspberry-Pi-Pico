@@ -38,8 +38,7 @@
 2. Raspberry Pi boards come with Thonny preinstalled. If you are using other systems, you can download and install Mu from [here](https://codewith.mu).    
 3. To program the Pico, after opening the Mu IDE. Click on the Serial menu to automatically connect your Pico to the Mu IDE.   
 
-****************************
+
 ## Credits to      
-****************************    
 1. Adafruit for the Circuitpython libraries and firmware.  
 2. Raspberry Pi Foundation for the firmware.   
