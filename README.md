@@ -37,6 +37,7 @@
 1. You can use any Circuitpython based IDE for programming the Pico. However, the recommended IDE is the Mu.     
 2. Raspberry Pi boards come with Thonny preinstalled. If you are using other systems, you can download and install Mu from [here](https://codewith.mu).    
 3. To program the Pico, after opening the Mu IDE. Click on the Serial menu to automatically connect your Pico to the Mu IDE.   
+4. Download the desired files from the **Libraries** folder and place it under the **lib** folder on the Pico or download the library zip file and extract it to the **lib** folder on the Pico.   
 
 
 ## Credits to      
