@@ -1,9 +1,9 @@
 
-![github-small](https://raw.githubusercontent.com/shivasiddharth/Raspberry-Pi-Pico/main/Raspberry%20Pi%20Pico%20Pinout.png?token=AEKNHAOTQX4O66DBTKDG77TACAWQE)    
+![github-small](https://github.com/shivasiddharth/Raspberry-Pi-Pico/blob/main/Raspberry%20Pi%20Pico%20Pinout.png?raw=true)    
 
 
 # Raspberry-Pi-Pico
- Aggregate of Raspberry Pi Pico related codes and firmware    
+ Aggregate of Raspberry Pi Pico related codes, firmware, libraries, etc.      
 
 
 *************************************
