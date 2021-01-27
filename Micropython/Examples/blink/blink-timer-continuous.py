@@ -16,5 +16,5 @@ tim.init(freq=2, mode=Timer.PERIODIC, callback=tick)
 # The following is used to repeat the blinking activity periodically.
 # tim.init(mode=Timer.PERIODIC, period=1000, callback=tick)
 
-# The following is used to carry trigger the callback function once after the set period.
+# The following is used to trigger the callback function once after the set period.
 # tim.init(mode=Timer.ONE_SHOT, period=1000, callback=tick)
