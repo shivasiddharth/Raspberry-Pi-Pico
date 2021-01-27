@@ -14,7 +14,7 @@
 1. Download the MicroPython firmware from the **Firmware** directory in the **Micropython** folder or from official Raspberry Pi's site by clicking [here](https://www.raspberrypi.org/documentation/pico/getting-started/static/5d8e777377e8dbe23cf36360d6efc727/pico_micropython_20210121.uf2).     
 2. Push and hold the BOOTSEL button and plug your Pico into the USB port of your Raspberry Pi or other computer. Release the BOOTSEL button after your Pico is detected.     
 3. It will mount as a Mass Storage Device called RPI-RP2.     
-4. Place the MicroPython UF2 file onto the RPI-RP2 volume. The Raspberry Pi Pico should reboot and ready for programming using Micropython.   
+4. Place the MicroPython UF2 file onto the RPI-RP2 volume. The Raspberry Pi Pico should reboot and be ready for programming using Micropython.   
 
 ### Programming the Pico   
 1. You can use any Micropython based IDE for programming the Pico. However, the recommended IDE is the Thonny.     
