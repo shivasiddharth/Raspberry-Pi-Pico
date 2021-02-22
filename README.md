@@ -43,4 +43,6 @@
 ## Credits to      
 1. Adafruit for the Circuitpython libraries and firmware.  
 2. Raspberry Pi Foundation for the firmware.   
-3. [Peter Hinch](https://github.com/peterhinch) for [micropython-async](https://github.com/peterhinch/micropython-async) and aswitch.py     
+3. [Peter Hinch](https://github.com/peterhinch) for [micropython-async](https://github.com/peterhinch/micropython-async) and aswitch.py.         
+4. [Mike Causer](https://github.com/mcauser) for EEPROM library [micropython-tinyrtc-i2c](https://github.com/mcauser/micropython-tinyrtc-i2c).     
+    
